@@ -1,4 +1,4 @@
 language: java
 
 script:
-	_ javac Main.java
+ - javac Main.java
